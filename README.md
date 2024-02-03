@@ -13,11 +13,9 @@ Our project aims to raise funds for disadvantaged children in Africa. You can re
 
 **User Page**
 - Login & SignUp
-- Forget / Reset Password
 - Filter By Category
 - Search
 - Donation
-- Confirmation Mail
 - Volunteer Wall
 - Volunteer Access
 - Volunteer CRUD Operations
